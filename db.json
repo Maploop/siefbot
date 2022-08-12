@@ -1,0 +1,26 @@
+{"playlists": {
+    "Vibes": {
+        "name": "Vibes",
+        "submitter": 553152764847587340,
+        "colour": "147, 93, 179",
+        "url": "https://open.spotify.com/playlist/0UePF4rIFT55nGxmScpqwA?si=23f469b32651492d",
+        "thumbnailUrl": "https://cdn.discordapp.com/attachments/961739977073512468/1000734109666123786/unknown_8.png",
+        "timestamp": 1658664053855
+    },
+    "Classics": {
+        "submitter": 553152764847587340,
+        "colour": "43, 94, 43",
+        "name": "Classics",
+        "url": "https://open.spotify.com/playlist/0zZ2hloJu5H5anPZnS31sa?si=c9d6b58d79944329",
+        "thumbnailUrl": "https://cdn.discordapp.com/attachments/961739977073512468/986235700175339550/unknown.png",
+        "timestamp": 1655210005760
+    },
+    "Indie": {
+        "submitter": 553152764847587340,
+        "colour": "212, 117, 250",
+        "name": "Indie",
+        "url": "https://open.spotify.com/playlist/2ZlYSCV6i1vw7rSRaEqGHT?si=f6cc61c1cf934766",
+        "thumbnailUrl": "https://cdn.discordapp.com/attachments/961739977073512468/986230420502900786/Untitled.png",
+        "timestamp": 1655367979649
+    }
+}}
